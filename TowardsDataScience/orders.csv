@@ -1,0 +1,11 @@
+order_id,customer_id,order_date,product_purchased
+M1,ABC101,2023-01-05,Coffee Mug
+T1,ABD101,2022-01-09,T-Shirt
+T2,ABC101,2022-01-09,Cap
+T3,BCD201,2022-01-09,Sunglasses
+W1,BCD201,2021-12-23,Shoes
+W2,ABC102,2021-12-23,Coffee Mug
+TH1,ABC101,2023-05-31,Coffee Mug
+TH2,ABD101,2023-05-31,Cap
+TH3,XYZ101,2023-05-31,Coffee Mug
+Th4,BCD201,2023-05-31,Shoes

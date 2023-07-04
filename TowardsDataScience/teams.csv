@@ -1,0 +1,11 @@
+team_1,team_2,winner
+TeamA,TeamB,TeamA
+TeamC,TeamD,TeamD
+TeamD,TeamE,TeamD
+TeamC,TeamB,TeamB
+TeamC,TeamA,NULL
+TeamE,TeamC,NULL
+TeamD,TeamA,TeamA
+TeamB,TeamE,TeamB
+TeamB,TeamA,NULL
+TeamC,TeamB,TeamB
